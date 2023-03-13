@@ -6,5 +6,8 @@ namespace Vjezba1_PIS
 {
     class NewClass
     {
+               static void newMethod2()
+        {
+        }
     }
 }
