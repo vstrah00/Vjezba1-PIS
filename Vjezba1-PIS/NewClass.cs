@@ -6,6 +6,9 @@ namespace Vjezba1_PIS
 {
     class NewClass
     {
+               static void newMethod2()
+        {
+        }
         //bzvz update 1
     }
 }

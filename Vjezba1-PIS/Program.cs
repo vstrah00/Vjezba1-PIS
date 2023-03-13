@@ -6,7 +6,7 @@ namespace Vjezba1_PIS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worlddd!");
+            Console.WriteLine("Hello Worlddddd!");
         }
     }
 }
