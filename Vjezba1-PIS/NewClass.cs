@@ -6,5 +6,6 @@ namespace Vjezba1_PIS
 {
     class NewClass
     {
+        //bzvz update 1
     }
 }
